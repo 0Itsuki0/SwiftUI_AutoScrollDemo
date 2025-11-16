@@ -4,6 +4,6 @@ Three different approaches to Automatically Scroll to the Bottom Of ScrollView.
 - On ScrollView Items change
 - On Content of an Item Change
 
-For more details, please refer to my article [SwiftUI: 2.5 RELIABLE Ways to Automatically Scroll to the Bottom Of ScrollView]()
+For more details, please refer to my article [SwiftUI: 2.5 RELIABLE Ways to Automatically Scroll to the Bottom Of ScrollView](https://medium.com/@itsuki.enjoy/swiftui-2-5-reliable-ways-to-automatically-scroll-to-the-bottom-of-scrollview-1581711e957c)
 
 ![](./demo.gif)
